@@ -3,3 +3,10 @@
   text-align: center;
   size: 10;
 }
+html, body, #root {
+    width: 100%;
+    -webkit-overflow-scrolling: touch;
+    margin: 0px;
+    padding: 0px;
+    min-height: 10%;
+}
